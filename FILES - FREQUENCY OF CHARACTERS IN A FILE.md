@@ -30,8 +30,8 @@ To write a Python program that reads a file and counts the frequency of each cha
 ### PROGRAM
 
 ```
-# Reg.No-212223060200
-# Name-pradeep m
+# Reg.No-212222060188
+# Name-Rahul R
 
 from collections import defaultdict
 
